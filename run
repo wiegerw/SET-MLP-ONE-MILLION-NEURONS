@@ -1,0 +1,4 @@
+# Build the cython file
+# cythonize -a -i sparseoperations.pyx
+
+python3 set_mlp_sparse_data_structures.py
